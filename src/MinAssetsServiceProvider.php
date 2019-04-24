@@ -2,7 +2,7 @@
 
 namespace DenisKisel\MinAssets;
 
-use DenisKisel\MinAssets\Commands\makeMinAssets;
+use DenisKisel\MinAssets\Commands\MakeMinAssets;
 use Illuminate\Support\ServiceProvider;
 
 class MinAssetsServiceProvider extends ServiceProvider

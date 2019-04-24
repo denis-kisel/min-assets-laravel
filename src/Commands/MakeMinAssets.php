@@ -5,8 +5,6 @@ namespace DenisKisel\MinAssets\Commands;
 
 
 use Illuminate\Console\Command;
-use Illuminate\Filesystem\Filesystem;
-use Illuminate\Support\Facades\File;
 use MatthiasMullie\Minify\CSS;
 use MatthiasMullie\Minify\JS;
 

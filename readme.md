@@ -7,7 +7,7 @@ Package for minimize assets for laravel framework
 Via composer
 
 ``` bash
-$ composer require denis-kisel/min-assets-laravel
+$ composer require denis-kisel/min-assets
 ```
 
 Public config

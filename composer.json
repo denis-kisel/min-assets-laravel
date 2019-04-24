@@ -19,11 +19,6 @@
             "DenisKisel\\MinAssets\\": "src/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "DenisKisel\\MinAssets\\Tests\\": "tests"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [
